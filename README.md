@@ -11,7 +11,7 @@ I'll start with the Nand2Tetris course, which is shorter and provides a solid fo
 Finish 12 chapters in six months.
 
 ### Section 1 
- * Boolean Logic
+Boolean Logic
   - Background
   - Specification
   - Implementation
