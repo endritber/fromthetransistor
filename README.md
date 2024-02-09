@@ -19,6 +19,7 @@ Boolean Arithmetic
   - In this chapter, we create logic designs using gates to work with numbers and perform arithmetic operations. We begin with the logic gates introduced in Chapter 1 and end with a fully operational Arithmetic Logical Unit.
 
 ### Section 3
+Sequential Logic
   - In this section, we transition from combinational to sequential chips, essential for storing data in computers. We explore memory elements built from flip-flops, detailing clocks, binary cells, registers, and more, culminating in a complete computer system. 
 
 ## From the Transistor -  Outline
