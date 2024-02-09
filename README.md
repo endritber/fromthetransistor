@@ -1,4 +1,4 @@
-From the Transistor to the Web Browser
+## From the Transistor to the Web Browser
 
 Also a combination with [nand2tetris](https://www.nand2tetris.org) course!
 
