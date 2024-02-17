@@ -1,14 +1,10 @@
 ## From the Transistor to the Web Browser
 
-Also a combination with [nand2tetris](https://www.nand2tetris.org) course!
-
-Since fromthetransistor is more advanced to me I will start with the Nand2Tetris course, which is shorter and provides a guide solid foundation. After that, I think I can tackle fromthetransistor advanced topics. My aim is to finish both courses this year and be an actual computer scientist.
+Also a combination with the [nand2tetris](https://www.nand2tetris.org) course!
 
 ---
 
-## Nand2Tetris - Outline
-
-Finish 12 chapters in six months.
+## Nand2Tetris - Outline (6 months)
 
 ### Section 1 
 Boolean Logic
@@ -22,7 +18,6 @@ Boolean Arithmetic
 Sequential Logic
   - In this section, we transition from combinational to sequential chips, essential for storing data in computers. We explore memory elements built from flip-flops, detailing clocks, binary cells, registers, and more, culminating in a complete computer system. 
 
-## From the Transistor -  Outline
+## From the Transistor -  Outline (6 months)
 
 TBD
-
