@@ -1,8 +1,3 @@
-// This file is part of www.nand2tetris.org
-// and the book "The Elements of Computing Systems"
-// by Nisan and Schocken, MIT Press.
-// File name: projects/02/ALU-basic.tst
-
 // Tests the basic version of the ALU chip.
 // DOES NOT replace the final test provided by ALU.tst.
 // Specifically: Tests the ALU logic that computes the 'out' output;
